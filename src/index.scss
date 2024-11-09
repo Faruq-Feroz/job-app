@@ -1,0 +1,243 @@
+$navbar-bg-color: rgba(255, 255, 255, 0.9); // White background
+$navbar-scroll-bg: #f8f9fa; // Light background on scroll
+$navbar-link-hover-color: #ffcc00; // Yellow hover color for links
+$search-btn-bg-color: #ffcc00; // Yellow for the search button
+$search-btn-hover-color: #e6b800; // Slightly darker yellow on hover
+$search-input-bg: #f8f9fa; // Light background for search input
+$navbar-text-color: #333; // Default text color (dark grey for contrast)
+$navbar-toggle-color: #333; // Toggle button color
+
+.navbar {
+  background-color: $navbar-bg-color;
+  transition: background-color 0.3s ease;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  &.scrolled {
+    background-color: $navbar-scroll-bg;
+  }
+
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: $navbar-text-color;
+  }
+
+  .nav-link {
+    font-size: 16px;
+    color: $navbar-text-color; // Default text color
+    margin-left: 55px; // Slightly reduced margin for moving links left
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $navbar-link-hover-color; // Yellow hover effect
+    }
+  }
+
+  .nav-item.search-bar {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .search-input {
+    width: 250px;
+    border-radius: 20px;
+    padding-left: 35px;
+    padding-right: 15px;
+    border: 1px solid #ddd;
+    background-color: $search-input-bg;
+    font-size: 14px;
+    height: 40px;
+  }
+
+  .navbar-toggler-icon {
+    background-color: $navbar-toggle-color; // Dark icon for toggle
+  }
+
+  .navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+
+    // Align nav links to the left on mobile
+    @media (max-width: 991px) {
+      justify-content: flex-start;
+      width: 100%;
+    }
+  }
+
+  // Mobile responsive styles
+  @media (max-width: 991px) {
+    .navbar-collapse {
+      text-align: left; // Aligns links to the left on mobile
+    }
+
+    .nav-link {
+      margin: 10px 20px; // Adjust margin for more balanced left alignment
+    }
+
+    .search-bar {
+      margin: 10px 0;
+      width: 100%;
+      .search-input {
+        width: 90%;
+        padding-left: 20px;
+      }
+    }
+  }
+}
+
+
+.select-county-container {
+    padding: 15px;
+    background-color: #ffcc00;  // Yellow background to match the theme
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  
+    .d-flex {
+      display: flex;
+      align-items: center;
+      justify-content: center;  // Center-aligns the content horizontally
+      position: relative;
+      width: 100%;
+    }
+  
+    h6 {
+      font-size: 0.9rem;
+      color: #333;  // Dark color for the text
+      margin-right: 10px;  // Reduced margin between text and dropdown
+    }
+  
+    .dropdown-toggle {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+      padding: 5px 15px;
+      border-radius: 25px;
+      font-weight: 600;
+    }
+  
+    .dropdown-menu {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px 0;
+    }
+  
+    .dropdown-item {
+      padding: 10px 20px;
+      font-size: 1rem;
+  
+      &:hover {
+        background-color: #ffcc00;
+        color: #fff;
+      }
+    }
+  
+    .county-content {
+      margin-top: 10px;
+      font-size: 1rem;
+      color: #555;
+    }
+  
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 2rem;  // Increased size of the X button
+      color: white;  // Set color to white
+      cursor: pointer;
+      transition: color 0.3s ease;
+      position: absolute;
+      right: 10px;  // Pushes the X to the far right
+      top: 50%;
+      transform: translateY(-50%);  // Vertically centers the X button
+  
+      &:hover {
+        color: #d9534f; /* Red color on hover */
+      }
+    }
+  }
+  
+
+.hero-section {
+    padding: 100px 0;
+    background-color: #f8f9fa; // Light background for clarity
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  
+    .hero-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px; // Optional: Add rounded corners to the image
+      }
+    }
+  
+    .hero-text {
+      text-align: left;
+      h1 {
+        font-size: 3rem;
+        color: #333;
+        font-weight: bold;
+      }
+  
+      p {
+        font-size: 1.25rem;
+        color: #555;
+        margin-bottom: 20px;
+      }
+  
+      .cta-button {
+        background-color: #ffcc00;  // Yellow CTA button
+        border: none;
+        padding: 15px 30px;
+        font-size: 1.1rem;
+        font-weight: bold;
+        border-radius: 25px;
+        transition: background-color 0.3s ease;
+  
+        &:hover {
+          background-color: #e6b800; // Darker yellow on hover
+        }
+      }
+    }
+  
+    // Mobile Styles
+    @media (max-width: 768px) {
+      .hero-image img {
+        width: 80%;
+        margin: 0 auto;
+      }
+  
+      .hero-text {
+        text-align: center;
+        margin-top: 20px;
+  
+        h1 {
+          font-size: 2rem;
+        }
+  
+        p {
+          font-size: 1rem;
+        }
+  
+        .cta-button {
+          font-size: 1rem;
+          padding: 10px 20px;
+        }
+      }
+    }
+  }
+  
+  
