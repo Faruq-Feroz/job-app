@@ -1,0 +1,304 @@
+[
+  {
+    "jobTitle": "Software Developer",
+    "companyName": "Nairobi Tech",
+    "location": "Nairobi, Kenya",
+    "description": "Develop and maintain software applications to meet client and user needs, ensuring high-quality performance, usability, and efficiency. Collaborate with teams to integrate solutions into existing infrastructure. Salary: KSh 90,000 - 120,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Data Analyst",
+    "companyName": "Kenya Data Solutions",
+    "location": "Mombasa, Kenya",
+    "description": "Analyze and interpret complex datasets to extract key business insights, supporting decision-making processes with actionable data and visualization reports for strategy improvement. Salary: KSh 50,000 - 70,000 per month.",
+    "type": "Part-time"
+  },
+  {
+    "jobTitle": "Digital Marketing Specialist",
+    "companyName": "Creative Minds Ltd.",
+    "location": "Nakuru, Kenya",
+    "description": "Manage online marketing campaigns, optimize digital presence, engage with target audiences on social media, and create strategies to boost brand awareness and conversion rates. Salary: KSh 70,000 - 90,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Graphic Designer",
+    "companyName": "Design Studio Africa",
+    "location": "Kisumu, Kenya",
+    "description": "Create visually compelling content for marketing materials, collaborate on brand designs, and ensure cohesive and engaging visuals across all digital and print media. Salary: KSh 40,000 - 60,000 per month.",
+    "type": "Contract"
+  },
+  {
+    "jobTitle": "Human Resource Manager",
+    "companyName": "Corporate Connect",
+    "location": "Nairobi, Kenya",
+    "description": "Oversee recruitment processes, implement HR policies, support employee relations, manage performance evaluations, and ensure a productive, fair, and positive work environment. Salary: KSh 100,000 - 130,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Project Manager",
+    "companyName": "Build Kenya Ltd.",
+    "location": "Nairobi, Kenya",
+    "description": "Coordinate and oversee project activities, manage timelines and resources, lead team meetings, and ensure projects are completed on time and within budget. Salary: KSh 110,000 - 150,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Customer Service Representative",
+    "companyName": "Quick Help Solutions",
+    "location": "Eldoret, Kenya",
+    "description": "Provide support to customers by addressing inquiries, resolving issues, offering guidance, and ensuring a positive and seamless customer experience. Salary: KSh 25,000 - 40,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Sales Executive",
+    "companyName": "Market Leaders Kenya",
+    "location": "Thika, Kenya",
+    "description": "Develop and execute strategies to increase sales, maintain client relations, conduct product presentations, and identify new business opportunities in the region. Salary: KSh 50,000 - 80,000 per month plus commission.",
+    "type": "Commission"
+  },
+  {
+    "jobTitle": "Content Writer",
+    "companyName": "Write Pro Kenya",
+    "location": "Nairobi, Kenya",
+    "description": "Create, edit, and proofread content for blogs, websites, and social media, ensuring engaging, high-quality, and audience-targeted writing that meets brand standards. Salary: KSh 30,000 - 50,000 per month.",
+    "type": "Part-time"
+  },
+  {
+    "jobTitle": "Operations Manager",
+    "companyName": "Efficient Ops",
+    "location": "Kisumu, Kenya",
+    "description": "Oversee daily operations to ensure efficiency, coordinate with department heads, and implement operational strategies to meet company goals and improve productivity. Salary: KSh 80,000 - 120,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "UX/UI Designer",
+    "companyName": "Bright Designs",
+    "location": "Mombasa, Kenya",
+    "description": "Design and enhance user interfaces, focus on improving user experience, and work with developers to implement intuitive, responsive, and accessible designs. Salary: KSh 70,000 - 100,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Mobile App Developer",
+    "companyName": "App Innovate",
+    "location": "Nairobi, Kenya",
+    "description": "Develop, test, and maintain mobile applications, collaborate with designers and stakeholders, and ensure functionality across various platforms and devices. Salary: KSh 90,000 - 130,000 per month.",
+    "type": "Contract"
+  },
+  {
+    "jobTitle": "Financial Analyst",
+    "companyName": "Finance Experts Ltd.",
+    "location": "Nakuru, Kenya",
+    "description": "Analyze financial data to provide insights, support strategic planning, prepare reports, and recommend actions for financial growth and stability. Salary: KSh 80,000 - 110,000 per month.",
+    "type": "Full-time"
+  },
+  {
+    "jobTitle": "Social Media Manager",
+    "companyName": "Media Buzz Kenya",
+    "location": "Nairobi, Kenya",
+    "description": "Manage social media channels, create engaging content, monitor analytics, and interact with followers to build brand loyalty and increase online presence. Salary: KSh 40,000 - 60,000 per month.",
+    "type": "Part-time"
+  },
+  
+  
+    {
+        "jobTitle": "Backend Developer",
+        "companyName": "Tech Backend Solutions",
+        "location": "Nairobi, Kenya",
+        "description": "Develop backend services and APIs for various client projects. Work with a team to create scalable, secure, and efficient systems. Salary: KES 150,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Front Desk Officer",
+        "companyName": "Hotel Nakuru",
+        "location": "Nakuru, Kenya",
+        "description": "Handle guest inquiries and manage front desk operations in a fast-paced environment. Ensure guests have a smooth check-in and check-out process. Salary: KES 50,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Web Designer",
+        "companyName": "Web Creators",
+        "location": "Nairobi, Kenya",
+        "description": "Design and enhance web pages, ensuring user-friendly and visually appealing designs. Collaborate with clients to create custom websites. Salary: KES 100,000 per month.",
+        "type": "Contract"
+    },
+    {
+        "jobTitle": "Electrician",
+        "companyName": "PowerPro Solutions",
+        "location": "Eldoret, Kenya",
+        "description": "Install and maintain electrical systems for residential and commercial properties. Troubleshoot and repair electrical faults. Salary: KES 70,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Accountant",
+        "companyName": "Financial Consultants Ltd.",
+        "location": "Nairobi, Kenya",
+        "description": "Manage company accounts and prepare financial reports. Ensure compliance with tax regulations and provide financial advice to the management. Salary: KES 120,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Supply Chain Coordinator",
+        "companyName": "Logistics Hub",
+        "location": "Kisumu, Kenya",
+        "description": "Oversee supply chain processes and logistics, including procurement, storage, and delivery. Ensure timely and cost-effective movement of goods. Salary: KES 80,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Software Developer",
+        "companyName": "Tech Innovations Ltd.",
+        "location": "Nairobi, Kenya",
+        "description": "Develop and maintain software applications for various business needs. Work with cross-functional teams to design, test, and implement software solutions. Salary: KES 180,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Project Manager",
+        "companyName": "Green Builders Inc.",
+        "location": "Mombasa, Kenya",
+        "description": "Manage construction projects, ensuring timely completion and adherence to budgets. Oversee the progress of projects and coordinate with contractors. Salary: KES 150,000 per month.",
+        "type": "Contract"
+    },
+    {
+        "jobTitle": "Marketing Specialist",
+        "companyName": "Brand Experts",
+        "location": "Nairobi, Kenya",
+        "description": "Develop and execute marketing strategies to drive brand growth. Analyze market trends and consumer behavior to create effective campaigns. Salary: KES 110,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Graphic Designer",
+        "companyName": "Creative Studios",
+        "location": "Kisumu, Kenya",
+        "description": "Design marketing materials, logos, and other visuals. Work closely with the marketing team to ensure visual consistency across platforms. Salary: KES 65,000 per month.",
+        "type": "Part-time"
+    },
+    {
+        "jobTitle": "Customer Support Representative",
+        "companyName": "QuickFix Solutions",
+        "location": "Nairobi, Kenya",
+        "description": "Provide support to customers via phone and email, resolving issues and answering queries. Ensure high levels of customer satisfaction. Salary: KES 55,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Sales Executive",
+        "companyName": "TechPro Solutions",
+        "location": "Nairobi, Kenya",
+        "description": "Drive sales of IT products and services to businesses. Build and maintain relationships with clients and identify new business opportunities. Salary: KES 120,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Data Analyst",
+        "companyName": "Data Insights Kenya",
+        "location": "Nairobi, Kenya",
+        "description": "Analyze data to provide actionable insights for businesses. Develop reports and dashboards that support decision-making processes. Salary: KES 100,000 per month.",
+        "type": "Full-time"
+    },
+    {
+        "jobTitle": "Financial Analyst",
+        "companyName": "Money Experts Ltd.",
+        "location": "Mombasa, Kenya",
+        "description": "Analyze financial data to support business decisions, budgeting, and forecasting. Provide insights into financial performance and risk management. Salary: KES 130,000 per month.",
+        "type": "Contract"
+    },
+    {
+        "jobTitle": "Web Developer",
+        "companyName": "WebTech Solutions",
+        "location": "Nairobi, Kenya",
+        "description": "Design and develop websites for various clients, ensuring functionality and responsiveness. Collaborate with designers to create user-friendly sites. Salary: KES 90,000 per month.",
+        "type": "Freelance"
+    },
+    {
+        "jobTitle": "Human Resources Manager",
+        "companyName": "PeopleFirst Ltd.",
+        "location": "Nakuru, Kenya",
+        "description": "Manage recruitment, employee relations, and organizational development. Ensure compliance with labor laws and implement HR strategies. Salary: KES 150,000 per month.",
+        "type": "Full-time"
+    },
+
+
+    
+      {
+          "jobTitle": "Digital Marketing Manager",
+          "companyName": "Digital World Ltd.",
+          "location": "Nairobi, Kenya",
+          "description": "As a Digital Marketing Manager, you will oversee the planning, execution, and optimization of digital campaigns to enhance the online presence of our clients. You will work closely with the creative and content teams to develop strategies, manage social media, SEO, email marketing, and PPC campaigns, ensuring they align with business objectives. You will analyze campaign performance and adjust strategies as needed to achieve maximum results. Salary: KES 140,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Accountant",
+          "companyName": "Kenya Accounting Ltd.",
+          "location": "Nairobi, Kenya",
+          "description": "The Accountant is responsible for maintaining accurate financial records, preparing timely financial reports, and ensuring compliance with regulations. You will handle tax filings, account reconciliations, and financial forecasting. The role requires attention to detail and an understanding of accounting principles to ensure the integrity of financial transactions and the smooth operation of the finance department. Salary: KES 110,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Content Writer",
+          "companyName": "WritePro Kenya",
+          "location": "Nairobi, Kenya",
+          "description": "As a Content Writer, your responsibilities include creating engaging and SEO-optimized blog posts, articles, and website content. You will collaborate with other writers and content managers to ensure content aligns with client needs and business goals. You will also assist in researching topics and editing content for accuracy, clarity, and engagement. Your work will directly contribute to building brand presence and driving traffic through well-crafted written content. Salary: KES 60,000 per month.",
+          "type": "Freelance"
+      },
+      {
+          "jobTitle": "Nurse",
+          "companyName": "HealthyCare Hospital",
+          "location": "Nairobi, Kenya",
+          "description": "As a Nurse at HealthyCare Hospital, you will provide high-quality nursing care, support patients, and monitor their health status. You will work closely with the medical team to develop treatment plans, administer medications, and assist in medical procedures. Patient care and well-being will be your top priority as you ensure a safe and comfortable environment for all patients. You will also be responsible for maintaining accurate patient records and ensuring compliance with health regulations. Salary: KES 75,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "IT Support Technician",
+          "companyName": "TechFix Ltd.",
+          "location": "Mombasa, Kenya",
+          "description": "The IT Support Technician at TechFix Ltd. is responsible for the installation, troubleshooting, and maintenance of computer systems, networks, and hardware. You will assist employees with technical issues, provide on-site support, and ensure all systems are running efficiently. Your role will involve responding to service tickets, diagnosing technical issues, and providing solutions to keep the organization’s IT infrastructure in optimal condition. Salary: KES 50,000 per month.",
+          "type": "Part-time"
+      },
+      {
+          "jobTitle": "Chef",
+          "companyName": "Gastronome Foods",
+          "location": "Nairobi, Kenya",
+          "description": "As a Chef at Gastronome Foods, you will be responsible for preparing meals, ensuring quality control, and managing kitchen operations. You will collaborate with the kitchen team to create innovative menus, maintain high standards of hygiene, and oversee food preparation. Your role will also involve managing inventory, ordering supplies, and training new kitchen staff to ensure efficient operation of the kitchen. Salary: KES 80,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Project Coordinator",
+          "companyName": "Vision Builders Ltd.",
+          "location": "Nairobi, Kenya",
+          "description": "The Project Coordinator at Vision Builders Ltd. plays a critical role in managing project timelines, resources, and communication. You will coordinate various tasks across teams, ensure all project goals are met, and provide status updates to clients and stakeholders. You will also be responsible for managing budgets, ensuring projects remain within scope, and resolving any issues that arise. Your organizational skills and ability to multitask will ensure the smooth execution of projects from start to finish. Salary: KES 120,000 per month.",
+          "type": "Contract"
+      },
+      {
+          "jobTitle": "Social Media Manager",
+          "companyName": "Brand Buzz Kenya",
+          "location": "Nairobi, Kenya",
+          "description": "As a Social Media Manager at Brand Buzz Kenya, you will be responsible for creating and managing engaging content across various social media platforms. You will develop and execute social media strategies that align with the company's marketing goals, track social media performance, and adjust strategies accordingly. Your role includes fostering engagement, building brand awareness, and analyzing insights to improve future campaigns. Salary: KES 90,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Business Development Executive",
+          "companyName": "Innovative Solutions",
+          "location": "Nairobi, Kenya",
+          "description": "As a Business Development Executive at Innovative Solutions, you will identify and develop new business opportunities by researching the market and building strong relationships with potential clients. Your role involves creating partnerships, negotiating contracts, and contributing to the company’s growth by increasing revenue streams. You will be instrumental in expanding the company’s client base, and your insights will guide long-term business strategies. Salary: KES 150,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Construction Manager",
+          "companyName": "Masonry Experts",
+          "location": "Nakuru, Kenya",
+          "description": "The Construction Manager at Masonry Experts will oversee construction projects from inception to completion. You will manage teams of construction workers, coordinate schedules, and ensure that projects are completed within budget and on time. You will liaise with architects, contractors, and stakeholders to ensure project specifications are met. Your role also includes ensuring safety compliance and high standards of workmanship on all construction sites. Salary: KES 200,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Legal Advisor",
+          "companyName": "LegalWise Consultants",
+          "location": "Nairobi, Kenya",
+          "description": "As a Legal Advisor at LegalWise Consultants, you will provide legal guidance and advice to businesses and individuals, ensuring compliance with the law and helping to resolve disputes. Your responsibilities will include drafting legal documents, reviewing contracts, and providing counsel on corporate governance matters. You will also play a key role in negotiating settlements and supporting the legal department in representing clients in court. Salary: KES 160,000 per month.",
+          "type": "Full-time"
+      },
+      {
+          "jobTitle": "Mechanical Engineer",
+          "companyName": "TechEngineering Solutions",
+          "location": "Mombasa, Kenya",
+          "description": "The Mechanical Engineer at TechEngineering Solutions will design, develop, and optimize mechanical systems and components for various projects. You will conduct tests and simulations to ensure the mechanical systems function properly and meet the necessary standards. Your work will involve collaborating with other engineers and project teams to implement solutions that are cost-effective and efficient. Salary: KES 140,000 per month.",
+          "type": "Full-time"
+      }
+  
+  
+  ]
+    

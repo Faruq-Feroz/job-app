@@ -18,14 +18,18 @@ const NavigationBar = () => {
 
   return (
     <Navbar expand="lg" className={`navbar ${scrolled ? 'scrolled' : ''}`}>
-      <Navbar.Brand href="#home" className="logo">JobFinder</Navbar.Brand>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
-      <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="ml-auto ml-sm-0">
-          <Nav.Link href="#home">Home</Nav.Link>
-          <Nav.Link href="#jobs">Jobs</Nav.Link>
-          <Nav.Link href="#about">About</Nav.Link>
-          <Nav.Link href="#contact">Contact</Nav.Link>
+<Navbar.Brand href="#home" className="logo">
+  <FaSearch /> kazi <span className="highlight-text">Pap</span>
+</Navbar.Brand>
+
+
+  <Navbar.Toggle aria-controls="basic-navbar-nav" />
+  <Navbar.Collapse id="basic-navbar-nav">
+    <Nav className="ml-auto ml-sm-0">
+      <Nav.Link href="#home">Home</Nav.Link>
+      <Nav.Link href="#jobs">Jobs</Nav.Link>
+      <Nav.Link href="#about">About</Nav.Link>
+      <Nav.Link href="#contact">Contact</Nav.Link>
 
           {/* Search Bar with Icon inside */}
           <Nav.Item className="search-bar">

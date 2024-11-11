@@ -1,15 +1,35 @@
-import Navbar from './Components/Navbar'
-import Hero from './Components/Hero'
-import Select from './Components/Select'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './Components/Navbar';
+import Hero from './Components/Hero';
+import Select from './Components/Select';
+import SearchBar from './Components/SearchBar';
+import Categories from './Components/Categories';
+import JobListings from './Components/Joblisting';
+import JobDetail from './Components/JobDetail';
+import JobPostSection from './Components/JobPostSection'; 
+import TestimonialCarousel from './TestimonialCarousel';
+import Partners from './Partners';
+import Footer from './Components/Footer';
 
 const App = () => {
   return (
-   <>
-   <Navbar/>
-    <Select/>
-   <Hero/>
-   </>
-  )
-}
+    <Router>
+      <Navbar />
+      <Select />
+      <Hero />
+      <SearchBar />
+      <Categories />
 
-export default App
+      <Routes>
+        <Route path="/" element={<JobListings />} />
+        <Route path="/job/:jobTitle" element={<JobDetail />} />
+      </Routes>
+      <JobPostSection/>
+      <TestimonialCarousel/>
+      <Partners/>
+      <Footer/>
+    </Router>
+  );
+};
+
+export default App;

@@ -1,19 +1,23 @@
-import  { useState } from 'react';
+import { useState } from 'react';
 import { Dropdown } from 'react-bootstrap';
+import jobsData from '../jobs.json'; 
 
 const Select = () => {
   const [selectedCounty, setSelectedCounty] = useState('');
   const [isVisible, setIsVisible] = useState(true);
+
+ 
+  const uniqueCounties = [...new Set(jobsData.map((job) => job.location))];
 
   const handleSelect = (county) => {
     setSelectedCounty(county);
   };
 
   const handleClose = () => {
-    setIsVisible(false);  // Hides the component
+    setIsVisible(false);  
   };
 
-  if (!isVisible) return null; // Renders nothing if the component is hidden
+  if (!isVisible) return null; 
 
   return (
     <div className="select-county-container">
@@ -25,11 +29,11 @@ const Select = () => {
           </Dropdown.Toggle>
 
           <Dropdown.Menu>
-            <Dropdown.Item onClick={() => handleSelect('Nairobi')}>Nairobi</Dropdown.Item>
-            <Dropdown.Item onClick={() => handleSelect('Mombasa')}>Mombasa</Dropdown.Item>
-            <Dropdown.Item onClick={() => handleSelect('Kisumu')}>Kisumu</Dropdown.Item>
-            <Dropdown.Item onClick={() => handleSelect('Nakuru')}>Nakuru</Dropdown.Item>
-            {/* Add more counties as needed */}
+            {uniqueCounties.map((county, index) => (
+              <Dropdown.Item key={index} onClick={() => handleSelect(county)}>
+                {county}
+              </Dropdown.Item>
+            ))}
           </Dropdown.Menu>
         </Dropdown>
         <button className="close-btn" onClick={handleClose}>×</button>
@@ -37,7 +41,7 @@ const Select = () => {
 
       {selectedCounty && (
         <div className="county-content mt-2">
-          <p>Showing content for {selectedCounty}. This can be customized further to load location-specific data.</p>
+          <p>Showing content for {selectedCounty}.</p>
         </div>
       )}
     </div>
