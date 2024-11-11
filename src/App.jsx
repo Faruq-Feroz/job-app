@@ -4,7 +4,7 @@ import Hero from './Components/Hero';
 import Select from './Components/Select';
 import SearchBar from './Components/SearchBar';
 import Categories from './Components/Categories';
-import JobListing from './Components/Joblisting';
+import JobListing from './Components/JobListing'; // Ensure the name matches
 import JobDetail from './Components/JobDetail';
 import JobPostSection from './Components/JobPostSection'; 
 import TestimonialCarousel from './TestimonialCarousel';
@@ -21,7 +21,7 @@ const App = () => {
       <Categories />
 
       <Routes>
-        <Route path="/" element={<JobListing />} /> {/* Updated component */}
+        <Route path="/" element={<JobListing />} />  
         <Route path="/job/:jobTitle" element={<JobDetail />} />
       </Routes>
       <JobPostSection />
