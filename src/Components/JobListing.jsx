@@ -4,7 +4,7 @@ import { FaMapMarkerAlt } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 import jobData from '../jobs.json';
 
-const JobListings = () => {
+const JobListing = () => {
   const [visibleJobs, setVisibleJobs] = useState(12);
   const [showAll, setShowAll] = useState(false);
   const navigate = useNavigate();
@@ -75,4 +75,4 @@ const JobListings = () => {
   );
 };
 
-export default JobListings;
+export default JobListing;
