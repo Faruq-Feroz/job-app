@@ -47,7 +47,7 @@ const Footer = () => {
           <div className="col-lg-3 col-md-6 footer-column">
             <h6 className="footer-heading">Contact</h6>
             <p><FaMapMarkerAlt className="me-3" /> Nairobi, Kenya</p>
-            <p><FaPhoneAlt className="me-3" /> +254 712 345 678</p>
+            <p><FaPhoneAlt className="me-3" /> +254 742 186 963</p>
             <p><FaEnvelope className="me-3" /> info@kazipap.com</p>
            
           </div>
