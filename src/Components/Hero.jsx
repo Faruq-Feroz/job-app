@@ -8,7 +8,7 @@ const Hero = () => {
         
           <Col md={6} className="hero-image">
             <img 
-              src="https://www.fuzu.com/packs/media/landing-page/hero-global-2b75b8d2.png" 
+              src="https://www.fuzu.com/packs/static/app/assets/images/b2c/landing-page/hero-global-2b75b8d2a9d5424557ce.png" 
               alt="Job Search Image" 
               className="img-fluid" 
             />
