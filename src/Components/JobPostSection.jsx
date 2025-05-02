@@ -127,7 +127,7 @@ const JobPostSection = () => {
       {!isFormVisible && (
         <div className="image-column">
           <img
-            src="https://www.fuzu.com/packs/media/landing-page/b2b-offer-people-7b4bce95.png"
+            src="https://www.fuzu.com/packs/static/app/assets/images/b2c/landing-page/b2b-offer-people-7b4bce9563c2d749226c.png"
             alt="Job Posting"
             className="image"
           />
