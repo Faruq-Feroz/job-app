@@ -8,7 +8,7 @@ const Hero = () => {
         
           <Col md={6} className="hero-image">
             <img 
-              src="https://i.pinimg.com/736x/b4/a9/2f/b4a92fb1b2684e85c33f293602d60345.jpg" 
+              src="https://i.pinimg.com/736x/be/b7/43/beb743e10a4f5ac0fcd988800c7d44ab.jpg" 
               alt="Job Search Image" 
               className="img-fluid" 
             />
